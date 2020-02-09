@@ -33,3 +33,8 @@
     width: 100px;
     height: 100px;
 }
+
+ul.inlinelist li {
+  display: inline;
+  padding-right: 10px;
+}
